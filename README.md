@@ -24,7 +24,7 @@ The developed code is designed to be easily replicable in other countries.
 - [`BE_CORINE.ipynb`](https://github.com/luisalopresti/OSMRenewables/blob/main/src/BE_CORINE.ipynb): analysis of CORINE land cover surrounding OSM-reported solar and wind infrastructures in Belgium.
 
 ### Related Publication
-This code is associated with the research paper titled *"Analysis of Renewable Energy Infrastructure Representations in OpenStreetMap"*, which has been accepted for the proceedings of OSM Science 2024. Full details will be updated once the paper is published.
+This code is associated with the research paper titled [*"Analysis of Renewable Energy Infrastructure Representations in OpenStreetMap"*](https://2024.stateofthemap.org/sessions/MKPJFW/), which has been accepted for the proceedings of OSM Science - State of the Map 2024. 
 
 ### Acknowledgments
 This work has emanated from research conducted with the financial support of Science Foundation Ireland under Grant number 18/CRT/6049.  
